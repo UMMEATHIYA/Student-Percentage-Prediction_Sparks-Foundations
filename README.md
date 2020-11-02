@@ -5,4 +5,23 @@ Task 1:- Predict the percentage of marks of an student based on the number of st
 ● You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 ● Data can be found at http://bit.ly/w data.<br>
 ● What will be predicted score if a student studies for 9.25 hrs/ day?<br>
+_________________________________________________________________________________________________________________________________________________________________
 
+<b>Task 2:- Prediction using Unsupervised ML</b><br>
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.<br>
+● Use R or Python or perform this task.<br>
+● Dataset : https://bit.ly/3kXTdox.<br>
+_________________________________________________________________________________________________________________________________________________________________
+
+<b>Task 3:- Prediction using Decision Tree Algorithm</b><br>
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.<br>
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.<br>
+● Dataset : https://bit.ly/3kXTdox.<br>
+_________________________________________________________________________________________________________________________________________________________________
+<b>Task 4:- Stock Market Prediction using Numerical and Textual Analysis<b><br>
+Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.<br>
+● Stock to analyze and predict SENSEX (S&P BSE SENSEX).<br>
+● Download historical stock prices from finance.yahoo.com.<br>
+● Download textual (news) data from https://bit.ly/36fFPI6.<br>
+● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.<br>
+  _______________________________________________________________________________________________________________________________________________________________
