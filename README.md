@@ -44,7 +44,5 @@ ________________________________________________________________________________
 ● Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.<br>
 ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi<br>
 _________________________________________________________________________________________________________________________________________________________________
-                                                        ^^^^                            ^^^^
-                                                                    ____________
-
+                                                       
 
