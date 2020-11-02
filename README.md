@@ -36,5 +36,15 @@ Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperst
 ● Intermediate Level Create storyboards. Screen record along with your audio explaining the charts and interpretations.<br>
 _________________________________________________________________________________________________________________________________________________________________
 
+<b>Task 6:- Timeline Analysis : Covid 19</b><br>
+● Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)<br>
+● Use animation, timeline and annotations to create attractive and interactive dashboards and story.<br>
+● Identify interesting patterns and possible reasons helping Covid 19 spread with basic as well as advanced charts.<br>
+● Use Tableau or Power BI for this task.<br>
+● Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.<br>
+● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi<br>
+_________________________________________________________________________________________________________________________________________________________________
+                                                        ^^^^                            ^^^^
+                                                                    ____________
 
 
